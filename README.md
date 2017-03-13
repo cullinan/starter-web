@@ -10,3 +10,4 @@ another change
 staging comment
 working directory comment
 copyright notice
+another developer could have made these changes
