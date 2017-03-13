@@ -9,3 +9,4 @@ will be committed to local repository
 another change
 staging comment
 working directory comment
+copyright notice
