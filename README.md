@@ -6,3 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 will be committed to local repository
+another change
